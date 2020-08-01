@@ -1,0 +1,85 @@
+{
+    "Category": "Affordable Hosting Providers",
+    "Link": [
+        {
+            "OVH": [
+                {
+                    "Description": "Starting at $3.35/mo for 1 core, 2GB RAM, 20GB SSD",
+                    "Link": "https://www.ovh.com/us/vps/"
+                }
+            ]
+        },
+        {
+            "DigitalOcean": [
+                {
+                    "Description": "Starting at $5/mo for 1 core, 1GB RAM, 25GB SSD",
+                    "Link": "https://www.digitalocean.com/"
+                }
+            ]
+        }, 
+        {
+            "Linode": [
+                {
+                    "Description": "https://www.linode.com/",
+                    "Link": "Starting at $5/mo for 1 core, 1GB RAM, 25GB SSD"
+                }
+            ]
+        }, 
+        {
+            "Vultr": [
+                {
+                    "Description": "Starting at $2.50/mo for 1 core, 512MB RAM, 10GB SSD",
+                    "Link": "https://www.vultr.com/"
+                }
+            ]
+        },
+        {
+            "AWS Lightsail": [
+                {
+                    "Description": "Starting at $3.50/mo (first month free) for 1 core, 512MB RAM, 20GB SSD",
+                    "Link": "https://amazonlightsail.com/"
+                }
+            ]
+        },
+        {
+            "Time4VPS": [
+                {
+                    "Description": "tarting at €3.99/month for 1 core, 2GB RAM, 20GB SSD",
+                    "Link": "https://www.time4vps.eu/"
+                }
+            ]
+        },
+        {
+            "VIRMACH": [
+                {
+                    "Description": "Full Windows and Linux Desktop VPS starting at $7/mo and $1/mo respectively",
+                    "Link": "https://virmach.com"
+                }
+            ]
+        },
+        {
+            "Free Credit and Other Offers for Students": [
+                {
+                    "Description": "None",
+                    "Link": "https://education.github.com/pack"
+                }
+            ]
+        },
+        {
+            "Free Credit for Students": [
+                {
+                    "Description": "None",
+                    "Link": "https://azure.microsoft.com/en-us/free/students/"
+                }
+            ]
+        },
+        {
+            "Google Cloud Free Tier": [
+                {
+                    "Description": "None",
+                    "Link": "https://cloud.google.com/free"
+                }
+            ]
+        }
+    ]
+}
