@@ -1,0 +1,12 @@
+{
+    "Category": "Main Discord.JS Resources",
+    "Links": [
+        {
+            "Documentation": "https://discord.js.org/#/docs/main/stable",
+            "GitHub": "https://github.com/discordjs/discord.js",
+            "Guide": "https://discordjs.guide/",
+            "Updating to version 12": "Updating to version 12",
+            "Discord Developer Documentation (needed permissions etc.)": "https://discord.com/developers/docs" 
+        }
+    ]
+}
