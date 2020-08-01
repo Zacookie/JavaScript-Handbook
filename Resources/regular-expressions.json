@@ -1,0 +1,17 @@
+{
+    "Category": "Regular Expressions",
+    "Description": "Trying to get some content out of a string but it's too complicated for slicing and dicing? Regular Expressions might be what you need:",
+    "Links": [
+        {
+            "Regex Guide": "https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4",
+            "Interactive Guide": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction",
+            "Online Tester/Debugger": [
+                {
+                    "Regex 101": "https://regex101.com/",
+                    "Regexp": "http://regexr.com/",
+                    "Debuggex": "https://www.debuggex.com/"
+                }
+            ]
+        }
+    ]
+}
