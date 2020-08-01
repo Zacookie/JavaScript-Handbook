@@ -1,5 +1,5 @@
-##### Debugging:
-#### For when you can't track that one pesky error down:
+### Debugging:
+### For when you can't track that one pesky error down:
 ### • Node.js: https://nodejs.org/en/docs/guides/debugging-getting-started/
 ### • VSCode: https://code.visualstudio.com/docs/nodejs/nodejs-debugging
 ### • Lint (syntax errors and code consistency): https://discordjs.guide/preparations/setting-up-a-linter.html
