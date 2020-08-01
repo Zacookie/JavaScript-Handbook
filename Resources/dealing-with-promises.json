@@ -1,6 +1,6 @@
 {
     "Category": "Dealing with promises",
-    "Description": "Discord.js heavily relies on promises, if you are new to the topic here are some resources to get you started:",
+    "Description": "Discord.js heavily relies on promises, if you are new to the topic here are some resources to get you started",
     "Links": [
         {
            "Using Promises": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises",
