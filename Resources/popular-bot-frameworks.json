@@ -1,0 +1,16 @@
+{
+    "Category": "Popular bot frameworks",
+    "Links": [
+        {
+           "Akairo": "https://www.npmjs.com/package/discord-akairo",
+           "Commando": "https://www.npmjs.com/package/discord.js-commando",
+           "Klasa": "https://www.npmjs.com/package/klasa"
+        }
+    ],
+    "Others": [
+        {
+            "Framework Comparison": "https://github.com/1Computer1/discord.js-frameworks-comparison"
+        }
+    ]
+}
+ 
