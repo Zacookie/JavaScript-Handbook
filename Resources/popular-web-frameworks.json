@@ -1,0 +1,45 @@
+{
+    "Category": "Popular JS Web Frameworks",
+    "Links": [
+        {
+            "React.js": [
+                {
+                    "Description": "A JavaScript library for building user interfaces.",
+                    "Link": "https://reactjs.org/"
+                }
+            ]
+        },
+        {
+            "Vue": [
+                {
+                    "Description": "The Progressive JavaScript Framework.",
+                    "Link": "https://vuejs.org/"
+                }
+            ]
+        }, 
+        {
+            "Angular": [
+                {
+                    "Description": "It is an open-source software engineering framework used for building single-page web apps.",
+                    "Link": "https://angular.io/"
+                }
+            ]
+        }, 
+        {
+            "Svelte": [
+                {
+                    "Description": "Svelte is a free and open-source JavaScript framework written by Rich Harris. Svelte applications do not include framework references. Instead, building a Svelte application generates code to manipulate the DOM, which may reduce the size of transferred files as well as give better client startup and run-time performance.",
+                    "Link": "https://svelte.dev/"
+                }
+            ]
+        },
+        {
+            "Ember": [
+                {
+                    "Description": "Ember.js is an open source, free JavaScript client-side framework used for developing web applications.",
+                    "Link": "https://emberjs.com/"
+                }
+            ]
+        },
+    ]
+}

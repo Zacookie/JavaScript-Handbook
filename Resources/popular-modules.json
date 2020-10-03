@@ -16,7 +16,10 @@
            "winston (logging provider)": "https://www.npmjs.com/package/winston",
            "node-cron (task scheduling)": "https://www.npmjs.com/package/node-cron",
            "node-schedule (task scheduling)": "https://www.npmjs.com/package/node-schedule",
-           "cheerio (web crawling)": "https://www.npmjs.com/package/cheerio"
+           "cheerio (web crawling)": "https://www.npmjs.com/package/cheerio",
+           "Axios (Promise based HTTP client for the browser and node.js)": "https://www.npmjs.com/package/axios",
+           "node-fetch": "https://www.npmjs.com/package/node-fetch",
+           "pretty-ms (converting ms to time/readable strings)": "https://www.npmjs.com/package/pretty-ms"
         }
     ]
 }
